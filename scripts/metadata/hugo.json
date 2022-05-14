@@ -1,0 +1,12 @@
+{
+    "name":"HugoNFT",
+    "description": " a developer who is good at coding",
+    "image":"https://gateway.pinata.cloud/ipfs/Qme4H31Smsahenh7Vvevnv56WVFnzpnmQgrjeva48whNHP",
+    "attributes": [{
+        "language": "Next.js",
+        "framework": "VUE.js",
+        "database": "Postgresql",
+        "server": "AWS"
+    }]
+
+}

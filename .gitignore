@@ -7,6 +7,8 @@
 
 # testing
 /coverage
+.env
+*.env
 
 # next.js
 /.next/
@@ -30,3 +32,13 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
