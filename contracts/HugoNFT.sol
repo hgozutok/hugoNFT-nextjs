@@ -6,10 +6,6 @@ import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
 
 //import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
-/// @title A title that should describe the contract/interface
-/// @author The name of the author
-/// @notice Explain to an end user what this does
-/// @dev Explain to a developer any extra details
 
 contract HugoNFT is ERC721URIStorage {
     using Counters for Counters.Counter;
